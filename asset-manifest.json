@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/questio-repo/static/css/main.073c9b0a.css",
+    "main.js": "/questio-repo/static/js/main.f1e0bcdf.js",
+    "static/js/787.1b12f87a.chunk.js": "/questio-repo/static/js/787.1b12f87a.chunk.js",
+    "static/media/logo.svg": "/questio-repo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/questio-repo/index.html",
+    "main.073c9b0a.css.map": "/questio-repo/static/css/main.073c9b0a.css.map",
+    "main.f1e0bcdf.js.map": "/questio-repo/static/js/main.f1e0bcdf.js.map",
+    "787.1b12f87a.chunk.js.map": "/questio-repo/static/js/787.1b12f87a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f1e0bcdf.js"
+  ]
+}
