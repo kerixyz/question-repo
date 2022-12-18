@@ -1,6 +1,6 @@
 {
   "name": "question-repo",
-  "homepage": "https://keri.xyz/questio-repo",
+  "homepage": "https://keri.xyz/question-repo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
